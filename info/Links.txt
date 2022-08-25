@@ -1,0 +1,22 @@
+
+
+
+Training RoadMap
+
+Generation
+[]    StyleGAN2ADA: https://colab.research.google.com/github/dvschultz/stylegan2-ada-pytorch/blob/main/SG2_ADA_PyTorch.ipynb#scrollTo=EL-M7WnnfMDI
+[]    StyleGAN3: https://colab.research.google.com/github/dvschultz/stylegan3/blob/main/SG3.ipynb
+[]    OpenAIDifussionModel: https://colab.research.google.com/drive/1Xfd5fm4OnhTd6IHPMGcoqw54uhGT3HdF#scrollTo=avkq78LOjVhV
+
+Detection
+[]    RetinaFace: https://github.com/foamliu/RetinaFace
+[]   MTCNN: https://github.com/Sierkinhane/mtcnn-pytorch
+[]    YoloV5: https://github.com/ultralytics/yolov5
+[]    YoloV4: https://github.com/Tianxiaomo/pytorch-YOLOv4
+[]    Detectron2: https://github.com/facebookresearch/Detectron
+
+Recognition
+[]    FaceNet
+[]    FaceNet512
+[]    VGGFace
+[]    ArcFace
